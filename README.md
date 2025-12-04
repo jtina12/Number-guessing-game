@@ -49,6 +49,5 @@ Continue guessing based on the feedback until you guess the correct number.
 Python 3
 
 👋 Contact
-linkedIn - www.linkedin.com/in/
-uwera-justine-850862379
-Project Link:https://github.com/jtina12/Number-guessing-game.git
+linkedIn - www.linkedin.com/in/uwera-justine-850862379
+Project Link: https://github.com/jtina12/Number-guessing-game.git
